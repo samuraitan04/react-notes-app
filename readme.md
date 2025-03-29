@@ -1,1 +1,1 @@
-Hello world!
+an notes app in development with the ongoing try to integrate task(my project) with it
